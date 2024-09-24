@@ -1,0 +1,8 @@
+nom du projet : Simulateur dynamique pour siège gaming
+no de projet  : 2411
+date          : 23.09.2024
+
+explicatif du projet:
+---------------------
+
+Création d'un simulateur de voiture afin de retranscrire les informations d'un jeu vidéo sur un siège dynamique.
